@@ -2,7 +2,7 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
-  background-image: linear-gradient(to right, gray 1%, white 10%);
+  background-image: linear-gradient(to right, gray , white 10%);
 }
 header, figure, #featured-property {
   text-align: center;
