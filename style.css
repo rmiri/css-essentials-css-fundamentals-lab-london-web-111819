@@ -13,4 +13,5 @@ header, figure, #featured-property {
 }
 #details div {
   float: left;
+  width: 100%;
 }
