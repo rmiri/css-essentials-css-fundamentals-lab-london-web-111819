@@ -9,5 +9,5 @@ header, figure, p {
 
 #details {
   background-color: red;
-  align-items: stretch;;
+  text-align: left;
 }
