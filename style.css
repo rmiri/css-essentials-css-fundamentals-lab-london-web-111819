@@ -9,7 +9,7 @@ header, figure, #featured-property {
 
 #details {
   background-color: red;
-   display: block;;
+   display: block;
 }
 #details div {
   float: left;
