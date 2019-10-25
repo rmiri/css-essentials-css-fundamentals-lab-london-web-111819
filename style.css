@@ -6,7 +6,7 @@ body {
 header, figure, #featured-property {
   text-align: center;
 }
-header nav{
+header a{
   background-color: gray;
 }
 
