@@ -6,6 +6,9 @@ body {
 header, figure, #featured-property {
   text-align: center;
 }
+header nav{
+  background-color: gray;
+}
 
 #details {
 
