@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-h1, nav, section, p {
+h1, nav, p {
   text-align: center;
 }
 
