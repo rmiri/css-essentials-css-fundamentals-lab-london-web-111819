@@ -6,3 +6,7 @@ body {
 h1, nav, section, p {
   text-align: center;
 }
+
+#details {
+  text-align: justify;
+}
