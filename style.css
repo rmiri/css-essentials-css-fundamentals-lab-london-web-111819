@@ -2,4 +2,22 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  background-image: linear-gradient(to right, gray , white 1%);
+}
+header, figure, #featured-property {
+  text-align: center;
+}
+header a{
+  background-color: gray;
+}
+
+#details {
+
+   display: block;
+}
+#details div {
+  background-color: red;
+  float: left;
+  width: 25%;
+  text-align: center;
 }
