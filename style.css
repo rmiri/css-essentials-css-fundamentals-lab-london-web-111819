@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-header, figure, p {
+header, figure, #featured-property {
   text-align: center;
 }
 
