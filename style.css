@@ -8,7 +8,7 @@ header, figure, #featured-property {
 }
 
 #details {
-  background-color: red;
+  background: red;
    display: block;
 }
 #details div {
